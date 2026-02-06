@@ -42,6 +42,7 @@ public class MonthInfo {
                 break;
             default:
                 System.out.println("Invalid month number");
+
         }
     }
 }
